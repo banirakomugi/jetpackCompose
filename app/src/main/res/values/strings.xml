@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="message">水をあげましょう</string>
+    <string name="message1">どんどん水を注ぎましょう</string>
+    <string name="message2">まだまだです！</string>
+    <string name="message3">何がさくでしょう？</string>
+    <string name="message4">成長してきました！</string>
+    <string name="message5">もう少しです！</string>
+    <string name="img_flower">花の画像</string>
+    <string name="btn_water">水をあげる</string>
+    <string name="btn_reset">リセット</string>
+</resources>
